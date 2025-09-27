@@ -27,7 +27,10 @@ It uses the Kaggle Hotel Reviews dataset, MongoDB for storage, and Tkinter GUI f
 
 <img width="491" height="311" alt="image" src="https://github.com/user-attachments/assets/d5223c99-f5c6-4cb7-904f-c9d7428c97c5" />
 
+
+
 1. Hotel Rating Trend
+
 Description: Shows the chronological trend of hotel ratings to help users and owners detect improvements or declines.
 
 <img width="926" height="290" alt="image" src="https://github.com/user-attachments/assets/f6c4f3f4-bfa7-4564-8735-e27cb2058a17" />

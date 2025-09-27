@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 """
 _file name_ = frontend.py
-_date created_ = 11/20/2023
-_date last modified_ = 12/07/2023
-__python version = 3.11
-_author_ = "Anagha Ghate - aghate@binghamton.edu",
-           "Vishakha Bhujbal - vbhujbal@binghamton.edu"
-           "Sarthak Mushrif - smushrif@binghamton.edu"
-_status_ = "Development"
 """
 
 import tkinter as tk
